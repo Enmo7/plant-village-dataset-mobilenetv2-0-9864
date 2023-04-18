@@ -5,4 +5,4 @@ This Dataset is From kaggle:
 https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset?datasetId=277323
 
 
-This Project is for Artificial Intelligence SYNC Intern
+This Project is for Artificial Intelligence SYNC Intern Task 1.
